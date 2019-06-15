@@ -1,5 +1,6 @@
 {
-  "name": "frontend",
+  "name": "rocketseat-omnistack-frontend",
+  "description": "Frontend da aplicação da Semana OmniStack 7.0 da Rocketseat.",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
